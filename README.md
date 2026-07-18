@@ -1,15 +1,53 @@
 # The Pin Museum
 
-> One pin so GitHub stops inventing **Popular repositories** for me.
-
-This repository is intentionally almost empty of code.
-It exists to be **the single pin** on my profile — and, while we were at it, a tiny museum of pins.
-
-Free admission. One exhibit category. Infinite excuses.
+> Meet **Pin** — the only pin on this profile.  
+> One character so GitHub stops inventing **Popular repositories**.
 
 ---
 
-## Feature films (6s each)
+## Meet Pin
+
+**Pin** is a red pushpin with a face and tiny limbs.  
+Job description: stand here. Be the one pin. Occasionally wave.
+
+![Pin hero](character/01-hero.jpg)
+
+| Sheet | Profile duty | Museum guard |
+|:--:|:--:|:--:|
+| ![sheet](character/00-sheet.jpg) | ![profile](character/02-profile.jpg) | ![guard](character/03-guard.jpg) |
+
+| Education → software | Hero mode | Off duty |
+|:--:|:--:|:--:|
+| ![edu](character/04-education.jpg) | ![heroic](character/05-heroic.jpg) | ![sleep](character/06-sleep.jpg) |
+
+| Wave | Tour guide |
+|:--:|:--:|
+| ![wave](character/07-wave.jpg) | ![guide](character/08-guide.jpg) |
+
+### Character shorts
+
+- [Pin waves](videos/06-char-wave.mp4)
+- [Pin on profile](videos/07-char-profile.mp4)
+
+<video src="videos/06-char-wave.mp4" controls width="100%"></video>
+
+---
+
+## Character notes (canon, soft)
+
+- Species: *Pinus fixus* (pushpin)
+- Color: classic map-pin red head, silver point
+- Personality: quiet, proud of being exactly one pin
+- Catchphrase candidates: “One is enough.” / “Popular, who?”
+- Role: sole profile pin + unofficial museum mascot
+
+---
+
+## Older exhibits (still open)
+
+The non-character gallery and earlier shorts remain in [`gallery/`](gallery/) and [`videos/`](videos/).
+
+### Feature films (museum era)
 
 | # | Clip |
 |---|------|
@@ -19,13 +57,7 @@ Free admission. One exhibit category. Infinite excuses.
 | 04 | [Education → software light](videos/04.mp4) |
 | 05 | [PIN HARD trailer energy](videos/05.mp4) |
 
-<video src="videos/01.mp4" controls width="100%"></video>
-
-<video src="videos/02.mp4" controls width="100%"></video>
-
----
-
-## Permanent collection (24)
+### Permanent collection (24 stills)
 
 | | | |
 |:--:|:--:|:--:|
@@ -38,40 +70,13 @@ Free admission. One exhibit category. Infinite excuses.
 | ![19](gallery/19.jpg) | ![20](gallery/20.jpg) | ![21](gallery/21.jpg) |
 | ![22](gallery/22.jpg) | ![23](gallery/23.jpg) | ![24](gallery/24.jpg) |
 
-### Wall labels
-
-1. Progress bar at 99% (restrained)
-2. Cloud, pinned
-3. Sticky note: become interesting
-4. One pin is enough
-5. From education into software
-6. Popular repositories (extinct)
-7. Museum entrance
-8. Loading spinner, pinned
-9. Security pin, Exhibit A
-10. Day/night corkboard
-11. Crown jewels of pin-only
-12. Job interview for pin position
-13. Spotlight on the one
-14. Mortarboard meets editor
-15. Visit The Pin Museum
-16. Neon PINNED over code city
-17. Popular repos tombstone
-18. *Pinus fixus* botanical plate
-19. PIN HARD
-20. Sumi-e of enoughness
-21. Papercraft profile
-22. PIN QUEST (16-bit)
-23. Fine-dining pin
-24. Weather: only pin
-
 ---
 
-## Why
+## Why this repo exists
 
-GitHub shows **Popular repositories** when you pin nothing.
-Pin **one** silly museum, and the algorithm steps aside.
+Pin **one** thing → Popular repositories steps aside.  
+That one thing is now a character named **Pin**.
 
-No roadmap. No issues. Just a pin with a gift shop of images.
+No code. No roadmap. Just Pin.
 
 — *The Pin Museum / pin-only*
